@@ -7,7 +7,7 @@ All datasets used in this project were provided as part of the **British Airways
 This repository contains my completed work for the **British Airways Data Science Job Simulation on Forage (January 2026)**. The simulation focuses on how data science supports British Airways’ operational planning and customer decision-making. Due to data usage and copyright restrictions, the original CSV datasets provided through Forage are **not included**. This repository contains the notebook workflows and analytical approaches used to complete each task.
 
 ## Project Structure
-- `BATask1_MNC.ipynb` and `Lounge Eligibility Lookup - Task 1 BA_MNC`: Operational modeling to estimate lounge demand at Heathrow Terminal 3.
+- `BATask1_MNC.ipynb` and `Lounge Eligibility Lookup - Task 1 BA_MNC.xlsx`: Operational modeling to estimate lounge demand at Heathrow Terminal 3.
 
 - `BATask2_MNC.ipynb` and `BA_Task2PowerPoint_MNC.pptx`: Predictive modeling to identify factors influencing customer booking behavior.
 
